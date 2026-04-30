@@ -6,7 +6,7 @@ A production-grade .NET 8 Web API for managing products with JWT authentication,
 
 # Features Implemented
 
-- .NET 6 Web API
+- .NET 8 Web API
 - JWT Authentication & Authorization
 - Public health check endpoint
 - Secured product endpoints

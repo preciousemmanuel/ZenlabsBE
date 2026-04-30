@@ -27,7 +27,7 @@ A production-grade .NET 8 Web API for managing products with JWT authentication,
 
 | Technology | Purpose |
 |---|---|
-| ASP.NET Core (.NET 6) | Web API Framework |
+| ASP.NET Core (.NET 8) | Web API Framework |
 | PostgreSQL | Database |
 | Entity Framework Core | ORM |
 | JWT Bearer Authentication | API Security |

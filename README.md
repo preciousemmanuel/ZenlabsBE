@@ -1,6 +1,6 @@
 # ZentekLabs Products API
 
-A production-grade .NET 6 Web API for managing products with JWT authentication, PostgreSQL integration, pagination, filtering, logging, unit testing, and clean architecture principles.
+A production-grade .NET 8 Web API for managing products with JWT authentication, PostgreSQL integration, pagination, filtering, logging, unit testing, and clean architecture principles.
 
 ---
 
